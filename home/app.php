@@ -13,6 +13,11 @@ require_once 'php/logic.php';
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
+  <meta name="description" content="Selamat Datang di Web Portal Laskar Covid At-Taqwa!">
+  <meta property="og:title" content="Home | Laskar Covid" />
+  <meta property="og:url" content="https://www.laskarcovid.rf.gd" />
+  <meta property="og:description" content="Selamat Datang di Web Portal Laskar Covid At-Taqwa!">
+  <meta property="og:image" content="https://github.com/attaqwadepok/laskarcovid/blob/main/img/attaqwa-logo-covid.png">
 
   <title><?= $title->home_title(); ?></title>
 
